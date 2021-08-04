@@ -1,0 +1,199 @@
+.bg-blue {
+  background-color: #146CDA;
+  border-color: #146CDA; }
+
+.font-blue {
+  color: #146CDA; }
+
+.bg-green {
+  background-color: #28A745;
+  border-color: #28A745; }
+
+.font-green {
+  color: #28A745; }
+
+.bg-orange {
+  background-color: #E9684B;
+  border-color: #E9684B; }
+
+.font-orange {
+  color: #E9684B; }
+
+.bg-white {
+  background-color: #ffffff;
+  border-color: #ffffff; }
+
+.font-white {
+  color: #ffffff; }
+
+.bg-red {
+  background-color: #FF0000;
+  border-color: #FF0000; }
+
+.font-red {
+  color: #FF0000; }
+
+.bg-gray {
+  background-color: #565969;
+  border-color: #565969; }
+
+.font-gray {
+  color: #565969; }
+
+.rc-btn {
+  display: inline-block;
+  font-size: 1rem;
+  border: 1px solid transparent;
+  padding: 8px 15px;
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+  .rc-btn.blue {
+    background-color: #146CDA;
+    color: #ffffff; }
+    .rc-btn.blue:hover {
+      background-color: #3586ec; }
+  .rc-btn.blue-round {
+    background-color: #146CDA;
+    border-radius: 20px;
+    color: #ffffff; }
+    .rc-btn.blue-round:hover {
+      background-color: #3586ec; }
+  .rc-btn.blue-radius {
+    background-color: #146CDA;
+    border-radius: 5px;
+    color: #ffffff; }
+    .rc-btn.blue-radius:hover {
+      background-color: #3586ec; }
+  .rc-btn.blue-outline {
+    border: 1px solid #146CDA;
+    border-radius: 5px;
+    color: #146CDA; }
+    .rc-btn.blue-outline:hover {
+      background-color: #146CDA;
+      color: #ffffff; }
+  .rc-btn.black {
+    background-color: #222222;
+    color: #ffffff; }
+    .rc-btn.black:hover {
+      background-color: #3c3c3c; }
+  .rc-btn.black-round {
+    background-color: #222222;
+    border-radius: 20px;
+    color: #ffffff; }
+    .rc-btn.black-round:hover {
+      background-color: #3c3c3c; }
+  .rc-btn.black-radius {
+    background-color: #222222;
+    border-radius: 5px;
+    color: #ffffff; }
+    .rc-btn.black-radius:hover {
+      background-color: #3c3c3c; }
+  .rc-btn.black-outline {
+    border: 1px solid #222222;
+    border-radius: 5px;
+    color: #222222; }
+    .rc-btn.black-outline:hover {
+      background-color: #222222;
+      color: #ffffff; }
+  .rc-btn.red {
+    background-color: #FF0000;
+    color: #ffffff; }
+    .rc-btn.red:hover {
+      background-color: #ff3333; }
+  .rc-btn.red-round {
+    background-color: #FF0000;
+    border-radius: 20px;
+    color: #ffffff; }
+    .rc-btn.red-round:hover {
+      background-color: #ff3333; }
+  .rc-btn.red-radius {
+    background-color: #FF0000;
+    border-radius: 5px;
+    color: #ffffff; }
+    .rc-btn.red-radius:hover {
+      background-color: #ff3333; }
+  .rc-btn.red-outline {
+    border: 1px solid #FF0000;
+    border-radius: 5px;
+    color: #FF0000; }
+    .rc-btn.red-outline:hover {
+      background-color: #FF0000;
+      color: #ffffff; }
+  .rc-btn.gray {
+    background-color: #565969;
+    color: #ffffff; }
+    .rc-btn.gray:hover {
+      background-color: #6d7185; }
+  .rc-btn.gray-round {
+    background-color: #565969;
+    border-radius: 20px;
+    color: #ffffff; }
+    .rc-btn.gray-round:hover {
+      background-color: #6d7185; }
+  .rc-btn.gray-radius {
+    background-color: #565969;
+    border-radius: 5px;
+    color: #ffffff; }
+    .rc-btn.gray-radius:hover {
+      background-color: #6d7185; }
+  .rc-btn.gray-outline {
+    border: 1px solid #565969;
+    border-radius: 5px;
+    color: #565969; }
+    .rc-btn.gray-outline:hover {
+      background-color: #565969;
+      color: #ffffff; }
+  .rc-btn.green {
+    background-color: #28A745;
+    color: #ffffff; }
+    .rc-btn.green:hover {
+      background-color: #34ce57; }
+  .rc-btn.green-round {
+    background-color: #28A745;
+    border-radius: 20px;
+    color: #ffffff; }
+    .rc-btn.green-round:hover {
+      background-color: #34ce57; }
+  .rc-btn.green-radius {
+    background-color: #28A745;
+    border-radius: 5px;
+    color: #ffffff; }
+    .rc-btn.green-radius:hover {
+      background-color: #34ce57; }
+  .rc-btn.green-outline {
+    border: 1px solid #28A745;
+    border-radius: 5px;
+    color: #28A745; }
+    .rc-btn.green-outline:hover {
+      background-color: #28A745;
+      color: #ffffff; }
+  .rc-btn.orange {
+    background-color: #E9684B;
+    color: #ffffff; }
+    .rc-btn.orange:hover {
+      background-color: #ef8e78; }
+  .rc-btn.orange-round {
+    background-color: #E9684B;
+    border-radius: 20px;
+    color: #ffffff; }
+    .rc-btn.orange-round:hover {
+      background-color: #ef8e78; }
+  .rc-btn.orange-radius {
+    background-color: #E9684B;
+    border-radius: 5px;
+    color: #ffffff; }
+    .rc-btn.orange-radius:hover {
+      background-color: #ef8e78; }
+  .rc-btn.orange-outline {
+    border: 1px solid #E9684B;
+    border-radius: 5px;
+    color: #E9684B; }
+    .rc-btn.orange-outline:hover {
+      background-color: #E9684B;
+      color: #ffffff; }
+
+/*# sourceMappingURL=rc-btn.css.map */
